@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I'm Omar 👋
 
-<!--
-**ohmarinseries/ohmarinseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm 1/4 of [Debugger Team](https://debugger.team/)
+- 🎓 I'm student at ETS Tuzla
+- 🔭 I’m currently working on hookapp
+- 🌱 I’m currently learning frontend
+- 👯 I’m looking to collaborate on promising startups and projects
+- 📫 How to reach me: 
+[Facebook ](https://www.facebook.com/omar.hurem)
+[Instagram ](https://www.instagram.com/omar.hrm/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://github-readme-stats.vercel.app/api?username=ohmarinseries&&show_icons=true&title_color=178EDE&icon_color=33ADFF&text_color=daf7dc&bg_color=151515">
