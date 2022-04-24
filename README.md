@@ -3,7 +3,7 @@
 - 💻 I'm 1/4 of [Debugger Team](https://debugger.team/)
 - 🎓 I'm student at ETS Tuzla
 - 🔭 I’m currently working on eUpis
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on promising startups and projects
 - 📫 How to reach me: 
 [Facebook ](https://www.facebook.com/omar.hurem)
