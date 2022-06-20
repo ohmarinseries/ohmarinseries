@@ -1,10 +1,8 @@
 ### Hi! I'm Omar 👋
 
-- 💻 I'm 1/4 of [Debugger Team](https://debugger.team/)
-- 🎓 I'm student at ETS Tuzla
-- 🔭 I’m currently working on eUpis
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on promising startups and projects
+- 🎓 I'm student at IBU 
+- 🔭 I’m currently working on ....
+- 🌱 I’m currently learning EVERYTHING
 - 📫 How to reach me: 
 [Facebook ](https://www.facebook.com/omar.hurem)
 [Instagram ](https://www.instagram.com/omar.hrm/)
